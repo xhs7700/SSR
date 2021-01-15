@@ -72,11 +72,11 @@ PC端主要使用了[Element-UI](https://element.eleme.cn/#/zh-CN)提供的UI组
 
 ![image-20210115154332469](./images/image-20210115154332469.png)
 
-![image-20210115154403879](C:\Users\夏海淞\AppData\Roaming\Typora\typora-user-images\image-20210115154403879.png)
+![image-20210115154403879](./images/image-20210115154403879.png)
 
 ![image-20210115154443138](./images/image-20210115154443138.png)
 
-![image-20210115154506582](C:\Users\夏海淞\AppData\Roaming\Typora\typora-user-images\image-20210115154506582.png)
+![image-20210115154506582](./images/image-20210115154506582.png)
 
 ## 项目运行方法
 
