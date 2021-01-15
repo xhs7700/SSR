@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SSR mobile</string>
+    <string name="title_activity_basic">MainActivity</string>
+    <string name="title_home">首页</string>
+    <string name="title_road_map">地图</string>
+    <string name="title_order">订单</string>
+
+    <string name="qr_code_text">二维码</string>
+    <string name="scan_qr_code_warn">将二维码放入框内，即可自动扫描</string>
+    <string name="scan_qr_code_from_photo_wrong">没有找到二维码</string>
+    <string name="album_text">相册</string>
+    <string name="text_logout">登出</string>
+    <string name="text_setting">设置</string>
+    <string name="text_account">账户</string>
+    <string name="text_change_password">修改密码</string>
+    <string name="text_qr_scan">扫一扫</string>
+    <string name="title_activity_detail">设备</string>
+    <string name="title_detail_place">地点：</string>
+    <string name="title_detail_device">设备名：</string>
+    <string name="title_detail_status">状态：</string>
+    <string name="title_detail_device_id">设备ID：</string>
+    <string name="text_refresh">刷新</string>
+    <string name="text_profile">账户信息/充值</string>
+    <string name="text_profile_username">用户名：</string>
+    <string name="text_profile_email">邮箱：</string>
+    <string name="text_profile_created_time">注册时间：</string>
+    <string name="text_profile_asset">账户余额：</string>
+    <string name="text_profile_total">总金额：</string>
+
+    <string-array name="labels_array">
+        <item>物理损坏</item>
+        <item>无法启动</item>
+        <item>无法进出</item>
+        <item>其他原因</item>
+    </string-array>
+</resources>

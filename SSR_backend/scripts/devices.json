@@ -1,0 +1,404 @@
+{
+  "devices": [
+    {
+      "name": "设备 1",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 2",
+      "status": "online"
+    },
+    {
+      "name": "设备 3",
+      "status": "online"
+    },
+    {
+      "name": "设备 4",
+      "status": "online"
+    },
+    {
+      "name": "设备 5",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 6",
+      "status": "offline"
+    },
+    {
+      "name": "设备 7",
+      "status": "offline"
+    },
+    {
+      "name": "设备 8",
+      "status": "offline"
+    },
+    {
+      "name": "设备 9",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 10",
+      "status": "online"
+    },
+    {
+      "name": "设备 11",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 12",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 13",
+      "status": "offline"
+    },
+    {
+      "name": "设备 14",
+      "status": "offline"
+    },
+    {
+      "name": "设备 15",
+      "status": "online"
+    },
+    {
+      "name": "设备 16",
+      "status": "online"
+    },
+    {
+      "name": "设备 17",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 18",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 19",
+      "status": "offline"
+    },
+    {
+      "name": "设备 20",
+      "status": "online"
+    },
+    {
+      "name": "设备 21",
+      "status": "offline"
+    },
+    {
+      "name": "设备 22",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 23",
+      "status": "online"
+    },
+    {
+      "name": "设备 24",
+      "status": "online"
+    },
+    {
+      "name": "设备 25",
+      "status": "online"
+    },
+    {
+      "name": "设备 26",
+      "status": "online"
+    },
+    {
+      "name": "设备 27",
+      "status": "online"
+    },
+    {
+      "name": "设备 28",
+      "status": "offline"
+    },
+    {
+      "name": "设备 29",
+      "status": "offline"
+    },
+    {
+      "name": "设备 30",
+      "status": "offline"
+    },
+    {
+      "name": "设备 31",
+      "status": "offline"
+    },
+    {
+      "name": "设备 32",
+      "status": "offline"
+    },
+    {
+      "name": "设备 33",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 34",
+      "status": "online"
+    },
+    {
+      "name": "设备 35",
+      "status": "online"
+    },
+    {
+      "name": "设备 36",
+      "status": "online"
+    },
+    {
+      "name": "设备 37",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 38",
+      "status": "online"
+    },
+    {
+      "name": "设备 39",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 40",
+      "status": "online"
+    },
+    {
+      "name": "设备 41",
+      "status": "offline"
+    },
+    {
+      "name": "设备 42",
+      "status": "offline"
+    },
+    {
+      "name": "设备 43",
+      "status": "offline"
+    },
+    {
+      "name": "设备 44",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 45",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 46",
+      "status": "offline"
+    },
+    {
+      "name": "设备 47",
+      "status": "offline"
+    },
+    {
+      "name": "设备 48",
+      "status": "offline"
+    },
+    {
+      "name": "设备 49",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 50",
+      "status": "offline"
+    },
+    {
+      "name": "设备 51",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 52",
+      "status": "offline"
+    },
+    {
+      "name": "设备 53",
+      "status": "offline"
+    },
+    {
+      "name": "设备 54",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 55",
+      "status": "online"
+    },
+    {
+      "name": "设备 56",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 57",
+      "status": "online"
+    },
+    {
+      "name": "设备 58",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 59",
+      "status": "online"
+    },
+    {
+      "name": "设备 60",
+      "status": "offline"
+    },
+    {
+      "name": "设备 61",
+      "status": "online"
+    },
+    {
+      "name": "设备 62",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 63",
+      "status": "offline"
+    },
+    {
+      "name": "设备 64",
+      "status": "online"
+    },
+    {
+      "name": "设备 65",
+      "status": "offline"
+    },
+    {
+      "name": "设备 66",
+      "status": "offline"
+    },
+    {
+      "name": "设备 67",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 68",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 69",
+      "status": "online"
+    },
+    {
+      "name": "设备 70",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 71",
+      "status": "offline"
+    },
+    {
+      "name": "设备 72",
+      "status": "offline"
+    },
+    {
+      "name": "设备 73",
+      "status": "offline"
+    },
+    {
+      "name": "设备 74",
+      "status": "online"
+    },
+    {
+      "name": "设备 75",
+      "status": "offline"
+    },
+    {
+      "name": "设备 76",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 77",
+      "status": "online"
+    },
+    {
+      "name": "设备 78",
+      "status": "online"
+    },
+    {
+      "name": "设备 79",
+      "status": "offline"
+    },
+    {
+      "name": "设备 80",
+      "status": "online"
+    },
+    {
+      "name": "设备 81",
+      "status": "offline"
+    },
+    {
+      "name": "设备 82",
+      "status": "offline"
+    },
+    {
+      "name": "设备 83",
+      "status": "offline"
+    },
+    {
+      "name": "设备 84",
+      "status": "online"
+    },
+    {
+      "name": "设备 85",
+      "status": "offline"
+    },
+    {
+      "name": "设备 86",
+      "status": "online"
+    },
+    {
+      "name": "设备 87",
+      "status": "offline"
+    },
+    {
+      "name": "设备 88",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 89",
+      "status": "offline"
+    },
+    {
+      "name": "设备 90",
+      "status": "online"
+    },
+    {
+      "name": "设备 91",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 92",
+      "status": "offline"
+    },
+    {
+      "name": "设备 93",
+      "status": "offline"
+    },
+    {
+      "name": "设备 94",
+      "status": "online"
+    },
+    {
+      "name": "设备 95",
+      "status": "offline"
+    },
+    {
+      "name": "设备 96",
+      "status": "online"
+    },
+    {
+      "name": "设备 97",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 98",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 99",
+      "status": "malfunction"
+    },
+    {
+      "name": "设备 100",
+      "status": "malfunction"
+    }
+  ]
+}
